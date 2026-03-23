@@ -17,4 +17,4 @@ pip install streamlit
 streamlit run app.py
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot(16).png)
