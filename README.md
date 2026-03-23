@@ -1,16 +1,20 @@
 # AI Code Complexity Analyzer
 
-This project analyzes Python code complexity and provides suggestions.
+A web-based application that analyzes Python code complexity and provides optimization suggestions.
 
-## Features
+## 🚀 Features
 - Upload Python files
 - Detect loops and functions
-- Generate suggestions
+- Estimate code complexity
+- Suggest improvements for better performance
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Streamlit
 
-## Run
-pip install streamlit radon  
+## ▶️ How to Run
+pip install streamlit  
 streamlit run app.py
+
+## 📸 Screenshot
+![App Screenshot](screenshot.png)
